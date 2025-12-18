@@ -3,7 +3,7 @@
 A modern, responsive portfolio showcasing my web development projects and skills.
 🔗 Live Preview: https://portfolio-coral-one-10.vercel.app/
 
-##Preview
+# Preview
 <img width="1098" height="592" alt="image" src="https://github.com/user-attachments/assets/306a6984-cb94-4427-8a77-7b049ba4c261" />
 
 ## About This Project
